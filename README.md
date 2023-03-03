@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -    Week-12-Peerlab |  -  Python functions to shift images in various directions| https://       |https://github.com/lekileki-0329/Week-12-Peerlab
-| 2 |  -    Week-11-PeerLab|  -   Evaluating Your Model on Test Data| https://       |https://github.com/lekileki-0329/Week-11-PeerLab
-| 3 |  -    Week-8-Peerlab|  -    Creating A Data Frame| https://       |https://github.com/lekileki-0329/Week-8-Peerlab
+| 1 |  -Week-12-Peerlab |-Python functions to shift images in various directions|https://github.com/lekileki-0329/Week-12-Peerlab
+| 2 |  -Week-11-PeerLab|-Evaluating Your Model on Test Data|https://github.com/lekileki-0329/Week-11-PeerLab
+| 3 |  -Week-8-Peerlab|-Creating A Data Frame|https://github.com/lekileki-0329/Week-8-Peerlab
 >>>>>>> 8f1f8f055451d3ec915095af5d1b6451ac6aed10
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
