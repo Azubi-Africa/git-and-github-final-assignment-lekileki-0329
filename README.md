@@ -28,7 +28,7 @@ The below table must contain the details of the repositories you will create, fi
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
 ## Setup
-Install the required packages to be able to run the evaluation locally..
+Install the required packages to be able to run the evaluation locally...
 
 You need to have [`Python 3`](https://www.python.org/) on your system (**a Python version lower than 3.10**). Then you can clone this repo and being at the repo's `root :: repository_name> ...`  follow the steps below:
 
@@ -41,7 +41,7 @@ You need to have [`Python 3`](https://www.python.org/) on your system (**a Pytho
         
         python3 -m venv venv; source venv/bin/activate; python -m pip install --upgrade pip; python -m pip install -r requirements.txt
 
-The both long command-lines have a same structure, they pipe multiple commands using the symbol **;** but you may manually execute them one after another.
+The both long command-lines have a same structure, they pipe multiple commands using the symbol **;** but you may manually execute them one after another..
 
 1. **Create the Python's virtual environment** that isolates the required libraries of the project to avoid conflicts;
 2. **Activate the Python's virtual environment** so that the Python kernel & libraries will be those of the isolated environment;
