@@ -56,7 +56,7 @@ You can run this command bellow being at the root of the repository to be sure y
 python -m pytest -v
 ```
 
-If everything is okay, you will have such an output
+If everything is okay, you will have such an output.
 
 ```terminal
 ================================================= test session starts =================================================
