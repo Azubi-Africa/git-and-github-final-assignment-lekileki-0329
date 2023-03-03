@@ -28,7 +28,7 @@ The below table must contain the details of the repositories you will create, fi
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
 ## Setup
-Install the required packages to be able to run the evaluation locally.
+Install the required packages to be able to run the evaluation locally..
 
 You need to have [`Python 3`](https://www.python.org/) on your system (**a Python version lower than 3.10**). Then you can clone this repo and being at the repo's `root :: repository_name> ...`  follow the steps below:
 
